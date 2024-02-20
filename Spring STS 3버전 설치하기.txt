@@ -1,0 +1,39 @@
+Spring 개발환경 구축
+
+1. 스프링 개발 IDE 다운로드
+
+https://spring.io/  접속해서   상단 메뉴 Projects 클릭 -> Spring Tools 4 클릭 -> 다운로드 화면으로 이동
+다음과 같이 3개의 IDE를 다운 받을 수 있는 화면이 나타난다.
+
+- Eclipse 기반 - Spring Tools 4 for Eclipse
+- Visual Studio Code 기반 - Spring Tools 4 for Visual Studio Code
+- Theia 기반  - Spring Tools 4 for Theia
+
+우리는 이클립스 기반의 Spring Tools 3을 사용할 것이므로 
+위의 화면에서 맨 아래로 스크롤 하여 내려간 후에 
+
+Looking for Spring Tool Suite 3? 이 제목 아래의
+
+Spring Tool Suite 3  wiki 를 클릭하여 다운로드 받는 화면으로 이동한다.
+
+###################################################################
+#########  Spring Tool Suite 3 받을 때 주의사항
+
+*** Spring Tool Suite 3을 다운로드하여 테스트한 결과
+자바 버전은 이클립스 버전과 연관이 있어 
+Spring Tool Suite 3.9.16의 모든 이클립스 버전과
+Spring Tool Suite 3.9.15의 Eclipse 4.18, Eclipse 4.17 버전은 자바 11 버전 이상을 요구한다.
+만약 자바 8을 사용할 것이라면 아래를 참고해 다운로드 받아 설치하면 된다.
+
+
+#################################################################
+*** 아래 버전은 실행시 자바 11 버전을 요구하지 않음 - 자바 8에서 잘 돌아간다.
+###############################################################
+Spring Tool Suite 3.9.15 버전의 Eclipse 4.16
+spring-tool-suite-3.9.15.RELEASE-e4.16.0-win32-x86_64.zip
+
+Spring Tool Suite 3.9.14 버전의 Eclipse 4.15
+spring-tool-suite-3.9.14.RELEASE-e4.15.0-win32-x86_64.zip
+
+
+

@@ -1,0 +1,33 @@
+* PropertiesEditor 오프라인 설치 - 테스트 완료 -> 잘됨
+
+
+####################################################
+이클립스 플러그인 properties editor 직접 설치하기(오프라인 환경)
+
+
+아래의 첨부파일을 다운로드하고 설치할 환경으로 옮긴 뒤, 압축을 풀어주세요.
+PropertiesEditor.zip
+
+1. jar file 복사 & 붙여넣기
+압축을 풀어서 jp.gr.java_conf.ussiy.app.propedit_6.0.5.jar  파일을 
+\{이클립스가 설치된 폴더}\plugins  폴더에 복사합니다.
+
+
+2. bundles.info 파일 수정(plugin install)
+파일 경로 : \{이클립스가 설치된 폴더}\configuration\org.eclipse.equinox.simpleconfigurator\
+파일명 : bundles.info
+
+위의 파일에 대한 정보를 bundles.info 파일 맨 아래에 아래와 같이 작성해 주고 저장합니다.
+식별자,버전,파일경로 및 파일명,4,false 	형식으로 작성함
+
+예)
+jp.gr.java_conf.ussiy.app.propedit,6.0.5,plugins/jp.gr.java_conf.ussiy.app.propedit_6.0.5.jar,4,false
+
+
+저장 후 이클립스 재시작 합니다.
+이클립스를 다시 시작하고 .properties 파일을 열어봅니다.
+만약 아직도 한글이 유니코드 형태로 출력된다면 열려고 하는 .properties 파일에서
+마우스 우클릭하여 나타나는 메뉴에서
+OpenWith -> PropertiesEditor 를 선택하여 열면 한글이 제대로 보일 것 입니다.
+
+

@@ -1,0 +1,10 @@
+package com.springstudy.ch02.main;
+
+public class MemberBeanConstructorIndex {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
