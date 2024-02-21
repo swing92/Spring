@@ -2,4 +2,7 @@
 //com.springsource.config.ui.prefs.activePageIndex\:/springclass-ch02/src/main/resources/config/AnnotationPropertyContext.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
 //com.springsource.config.ui.prefs.activePageIndex\:/springclass-ch02/src/main/resources/config/MemberBeanConstructorContext.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
 //com.springsource.config.ui.prefs.activePageIndex\:/springclass-ch02/src/main/resources/config/MemberBeanPropertyContext.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
+//com.springsource.config.ui.prefs.activePageIndex\:/springclass-ch03/src/main/resources/AspectContext.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
+//com.springsource.config.ui.prefs.activePageIndex\:/springstudy-ch02/src/main/resources/config/lifecycle/AnnotationLifeCycle01.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
+//com.springsource.config.ui.prefs.activePageIndex\:/springstudy-ch02/src/main/resources/config/lifecycle/BeanLifeCycle01.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
 eclipse.preferences.version=1
