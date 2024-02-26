@@ -1,0 +1,17 @@
+sts-3.9.15_metadata설치방법
+
+
+
+이 폴더에 있는 "sts-3.9.15_metadata.zip" 파일은 아래의 STS-3.9.15 버전을
+	- spring-tool-suite-3.9.15.RELEASE-e4.16.0-win32-x86_64.zip 
+
+사용해서 Spring Legacy Project 메뉴에서 - Spring MVC Project 템플릿이 잘보이는
+WorkDirectory의 .metadata 폴더를 통째로 압축한 파일로
+위의 spring-tool-suite-3.9.15.RELEASE-e4.16.0-win32-x86_64.zip 파일을 설치하고
+"D:/SpringStudy3.9.15"  폴더를 만들어  이 폴더에 "sts-3.9.15_metadata.zip" 파일을 
+복사한 후 "여기에 압축 풀기"로 풀면 .metadata 폴더가 만들어 진다.
+그리고 STS3.9.15를 실행하면 Spring Legacy Project 메뉴에서 - Spring MVC Project 템플릿이
+잘 보일 것이다.
+
+현재까지 jdk-11.0.10_windows-x64_bin.exe 을 설치하고 테스트 해 본 결과 이며
+jdk 11 이후 버전 17, 21 버전도 테스트 해 보자.
